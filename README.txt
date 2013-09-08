@@ -1,1 +1,1 @@
-project: USACO
+Project: USACO
