@@ -27,8 +27,6 @@ typedef struct block{
 bool *stall;
 std::vector<block> blocklist;
 
-
-
 block findlargestspace(int &index)
 {
 		block space;
